@@ -1,6 +1,6 @@
 {
   "name": "keycode-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find keycode from key on the command-line",
   "license": "MIT",
   "repository": "francoischalifour/keycode-cli",
