@@ -13,17 +13,17 @@ $ npm install --global keycode-cli
 ## Usage
 
 ```console
-$ keycode-cli --help
+$ keycode --help
 
   Usage
-    $ keycode-cli
+    $ keycode
 
   Example
-    $ keycode-cli
+    $ keycode
     › $
     ⌨️ 36
 
-    $ keycode-cli '#'
+    $ keycode '#'
     ⌨️ 35
 
   Options

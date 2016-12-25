@@ -9,11 +9,19 @@
     "email": "francois.chalifour@gmail.com",
     "url": "http://francoischalifour.com"
   },
-  "main": "index.js",
+  "main": "cli.js",
+  "bin": {
+    "keycode": "cli.js"
+  },
   "scripts": {
     "lint": "./node_modules/.bin/standard"
   },
+  "files": [
+    "cli.js"
+  ],
   "keywords": [
+    "app",
+    "cli-app",
     "cli",
     "keycode",
     "listener",
